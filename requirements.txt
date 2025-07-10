@@ -1,0 +1,14 @@
+pyttsx3 
+speechrecognition 
+pywhatkit
+requests 
+pyjokes
+psutil
+winshell
+pyautogui
+opencv-python
+pyperclip
+googletrans==4.0.0-rc1 
+pygame 
+gTTS
+pyaudio
