@@ -8,7 +8,7 @@
 
 **🧠 AI & Memory**
 
-* GPT-3.5 conversation via OpenAI
+*  conversation via Gemini
 * Session memory (remembers recent messages)
 * Repeat last reply
 * Typing effect and suggestions
